@@ -93,5 +93,5 @@ The goals of this project are:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Vali2412/A-CRM-Application-of-Co-living-.git
+   git clone https://github.com/Vali2412/A-CRM-Application-of-Co-living
    cd coliving-salesforce-crm
